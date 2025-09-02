@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=V2.1 Pin=R7-1
+Added Net: Name=V2.1
+Added Pin To Net: NetName=Vmn Pin=R5-2
+Added Net: Name=Vmn
+Added Pin To Net: NetName=Vmp Pin=R6-2
+Added Net: Name=Vmp
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
