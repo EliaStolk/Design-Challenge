@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=+5 Pin=R6-2
+Removed Member From Class: ClassName=EE209_Schematic Member=R6
+Added Component: Designator=C?(CCAP-5P0)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Member To Class: ClassName=EE209_Schematic Member=Component C? *
+Added Member To Class: ClassName=EE209_Schematic Member=Component Motor 2 S3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=EE209_Schematic Member=Component R3 *
+Added Room: Name=EE209_Schematic

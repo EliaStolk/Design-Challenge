@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=Vlc Pin=AudioAmp?-1
+Removed Pin From Net: NetName=GND Pin=AudioAmp?-3
+Removed Pin From Net: NetName=GND Pin=AudioAmp?-14
+Removed Pin From Net: NetName=Vrc Pin=AudioAmp?-16
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Added Component: Designator=Microphone(JST-S2B-XH-A(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "XH Series Disconnectable Crimp Style Connector, Pitch 2.5 mm, 1 x 2 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(AXIAL-0.4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Speaker Left(JST-S2B-XH-A(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "XH Series Disconnectable Crimp Style Connector, Pitch 2.5 mm, 1 x 2 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Speaker Right(JST-S2B-XH-A(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "XH Series Disconnectable Crimp Style Connector, Pitch 2.5 mm, 1 x 2 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vlc Pin=AudioAmp?-7
+Added Pin To Net: NetName=Vrc Pin=AudioAmp?-10
+Added Pin To Net: NetName=Vmn Pin=Microphone-1
+Added Pin To Net: NetName=Vmp Pin=Microphone-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=+5 Pin=R?-2
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=Vsln Pin=AudioAmp?-3
+Added Pin To Net: NetName=Vsln Pin=Speaker Left-1
+Added Net: Name=Vsln
+Added Pin To Net: NetName=Vslp Pin=AudioAmp?-1
+Added Pin To Net: NetName=Vslp Pin=Speaker Left-2
+Added Net: Name=Vslp
+Added Pin To Net: NetName=Vsrn Pin=AudioAmp?-14
+Added Pin To Net: NetName=Vsrn Pin=Speaker Right-1
+Added Net: Name=Vsrn
+Added Pin To Net: NetName=Vsrp Pin=AudioAmp?-16
+Added Pin To Net: NetName=Vsrp Pin=Speaker Right-2
+Added Net: Name=Vsrp
+Added Member To Class: ClassName=EE209_Schematic Member=Component C? *
+Added Member To Class: ClassName=EE209_Schematic Member=Component C? *
+Added Member To Class: ClassName=EE209_Schematic Member=Component C? *
+Added Member To Class: ClassName=EE209_Schematic Member=Component C? *
+Added Member To Class: ClassName=EE209_Schematic Member=Component Microphone S2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=EE209_Schematic Member=Component Motor ? S3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=EE209_Schematic Member=Component R? *
+Added Member To Class: ClassName=EE209_Schematic Member=Component R? *
+Added Member To Class: ClassName=EE209_Schematic Member=Component R? *
+Added Member To Class: ClassName=EE209_Schematic Member=Component R? *
+Added Member To Class: ClassName=EE209_Schematic Member=Component R? *
+Added Member To Class: ClassName=EE209_Schematic Member=Component R? *
+Added Member To Class: ClassName=EE209_Schematic Member=Component R? *
+Added Member To Class: ClassName=EE209_Schematic Member=Component Speaker Left S2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=EE209_Schematic Member=Component Speaker Right S2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=EE209_Schematic Member=Component U? LM324
+Added Member To Class: ClassName=EE209_Schematic Member=Component U? L78L05ACZ
+Added Room: Name=EE209_Schematic
+Added Rule: Name=Schematic Supply Nets_10
+Added Rule: Name=Schematic Supply Nets_11
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13

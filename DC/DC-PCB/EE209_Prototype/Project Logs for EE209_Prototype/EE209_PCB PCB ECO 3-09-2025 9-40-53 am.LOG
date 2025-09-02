@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=Vmica Pin=U?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=U?-2
+Removed Pin From Net: NetName=NetC?_2 Pin=U?-3
+Removed Pin From Net: NetName=+5 Pin=U?-4
+Removed Pin From Net: NetName=GND Pin=U?-11
+Removed Member From Class: ClassName=EE209_Schematic Member=U?
+Change Component Designator: OldDesignator=AudioAmp? NewDesignator=AudioAmp1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=MCU? NewDesignator=MCU1
+Change Component Designator: OldDesignator=Motor ? NewDesignator=Motor 1
+Change Component Designator: OldDesignator=Motor ? NewDesignator=Motor 2
+Change Component Designator: OldDesignator=Power Supply ? NewDesignator=Power Supply 1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Pin To Net: NetName=Vmica Pin=U2-1
+Added Pin To Net: NetName=NetC?_1 Pin=U2-2
+Added Pin To Net: NetName=NetC?_2 Pin=U2-3
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-1
+Added Pin To Net: NetName=NetC3_1 Pin=R3-2
+Added Pin To Net: NetName=NetC3_1 Pin=U2-5
+Added Net: Name=NetC3_1
+Added Member To Class: ClassName=EE209_Schematic Member=Component C1 *
+Added Member To Class: ClassName=EE209_Schematic Member=Component C2 *
+Added Member To Class: ClassName=EE209_Schematic Member=Component C3 *
+Added Member To Class: ClassName=EE209_Schematic Member=Component C4 *
+Added Member To Class: ClassName=EE209_Schematic Member=Component C5 *
+Added Member To Class: ClassName=EE209_Schematic Member=Component Motor 1 S3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=EE209_Schematic Member=Component R1 *
+Added Member To Class: ClassName=EE209_Schematic Member=Component R2 *
+Added Member To Class: ClassName=EE209_Schematic Member=Component R4 *
+Added Member To Class: ClassName=EE209_Schematic Member=Component R5 *
+Added Member To Class: ClassName=EE209_Schematic Member=Component R6 *
+Added Member To Class: ClassName=EE209_Schematic Member=Component R7 *
+Added Member To Class: ClassName=EE209_Schematic Member=Component R8 *
+Added Member To Class: ClassName=EE209_Schematic Member=Component U1 L78L05ACZ
+Added Member To Class: ClassName=EE209_Schematic Member=Component U2 LM324
